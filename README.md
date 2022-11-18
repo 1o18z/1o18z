@@ -27,10 +27,12 @@ You can click the Preview link to take a look at your changes.
           <br><br><br>
           
 <div align="center">
-     
+     <img src="https://github-readme-stats.vercel.app/api?username=1o18z&show_icons=true&theme=dracula"><br><br>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1o18z&layout=compact&theme=dracula"><br><br>   
+
      
 </div>
 <div align="center">
-     
+     <img src="http://mazandi.herokuapp.com/api?username=1o18z&handle=pichulia&theme=dark"/>
 </div>
 
