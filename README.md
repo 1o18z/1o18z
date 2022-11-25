@@ -32,7 +32,4 @@ You can click the Preview link to take a look at your changes.
 
      
 </div>
-<div align="center">
-     <img src="http://mazandi.herokuapp.com/api?username=1o18z&handle=pichulia&theme=dark"/>
-</div>
 
