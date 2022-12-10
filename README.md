@@ -11,10 +11,14 @@ You can click the Preview link to take a look at your changes.
 <div align ="center">
 <h4>⚡️Tech Skill⚡️</h4>
   <div display="block">
-    <img src="https://img.shields.io/badge/css-005571?style=flat-square&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/html-D12228?style=flat-square&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-FFE200?style=flat-square&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/react-73C3D5?style=flat-square&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/css-005571?style=flat-square&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=react&logoColor=white">
+
   </div>
 </div>
 <div align="center">
